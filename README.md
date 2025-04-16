@@ -1,11 +1,12 @@
 Multi-App Docker Compose Deployment with GitHub Actions CI/CD
+-----------------------------------------------------------------
 Project Overview
 
 This project demonstrates a multi-container Node.js application setup using Docker Compose, deployed on AWS EC2 via a CI/CD pipeline configured with GitHub Actions.
 
 📁 Directory Structure
 
-    multi-app-project/
+ multi-app-project/
 │
 ├── app1/                  # First Node.js application
 ├── app2/                  # Second Node.js application
